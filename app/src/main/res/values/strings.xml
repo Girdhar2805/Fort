@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Fort</string>
+    <string name="title_activity_settings">Fort</string>
+
+    <!-- Header Titles -->
+    <string name="messages_header">Restrictions</string>
+    <string name="sync_header">Custom-Settings</string>
+
+    <!-- Restrictions Preferences -->
+    <string name="restriction_title">Allow apps for custom restrictions</string>
+
+    <!-- Notifications Preferences -->
+    <string name="notification_title">App-Notifications</string>
+
+    <!-- Limits Preferences -->
+    <string name="limits_number">No. of bypass attempt</string>
+
+    <string-array name="numbers_lists">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+    </string-array>
+
+</resources>
